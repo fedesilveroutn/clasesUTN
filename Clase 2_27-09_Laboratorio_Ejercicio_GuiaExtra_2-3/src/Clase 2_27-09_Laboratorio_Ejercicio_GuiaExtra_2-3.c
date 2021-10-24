@@ -47,7 +47,7 @@ int main(void) {
 	char sexo;
 	char seguir;
 
-	float mitad
+	float mitad;
 	float seraDescuento;
 
 
